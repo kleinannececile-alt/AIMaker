@@ -1,0 +1,2 @@
+# AIMaker
+Exercise / training repository
